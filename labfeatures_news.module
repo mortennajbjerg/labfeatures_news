@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the LabFeatures News feature.
+ */
+
+include_once 'labfeatures_news.features.inc';
